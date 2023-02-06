@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "socket.h": "c",
+        "unistd.h": "c",
+        "bpf_helpers.h": "c",
+        "bpf_endian.h": "c",
+        "bpf.h": "c",
+        "bpf_common.h": "c",
+        "types.h": "c",
+        "cstdarg": "c",
+        "*.tcc": "c",
+        "libbpf.h": "c",
+        "libbpf_util.h": "c",
+        "inet.h": "c",
+        "stdint.h": "c",
+        "netdb.h": "c",
+        "poll.h": "c",
+        "common.h": "c",
+        "tcp.h": "c",
+        "pthread.h": "c"
+    }
+}
